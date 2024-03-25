@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GOPIPERURI2401
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning mern
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on  github
 - 📫 How to reach me https://discord.com/channels/@me
 
 
